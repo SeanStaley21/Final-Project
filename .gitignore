@@ -1,0 +1,41 @@
+# ========== Unity generated folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ========== Build output ==========
+[Bb]uild/
+[Bb]uilds/
+
+# ========== Visual Studio / Rider ==========
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== OS generated ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity specific ==========
+MemoryCaptures/
+*.apk
+*.aab
+*.unitypackage
+
+# ========== Crash / cache ==========
+sysinfo.txt
+
+# ========== JetBrains ==========
+.idea/
+
+# ========== Optional ==========
+*.log
